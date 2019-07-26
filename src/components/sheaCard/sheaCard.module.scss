@@ -1,0 +1,77 @@
+.sheaCard {
+  background-image: url("../images/eye1big.png") background-color;
+  background-size: cover;
+  height: auto;
+  width: auto;
+  position: relative;
+  //  l
+  margin: 20px;
+}
+
+.sheaIMG {
+  width: 300px;
+}
+
+.eye {
+  position: absolute;
+  transition: all 1s;
+  border-radius: 90%;
+}
+
+.eye1 {
+  width: 80px;
+  top: 106px;
+  left: 145px;
+}
+
+.eye2 {
+  width: 40px;
+  top: 25px;
+  left: 230px;
+  transition: all 2s;
+}
+
+.eye3 {
+  width: 50px;
+  top: 197px;
+  left: 10px;
+  transition: all 3s;
+}
+.eye4 {
+  width: 50px;
+  top: 87px;
+  left: 40px;
+  transition: all 1.5s;
+}
+.eye5 {
+  width: 50px;
+  top: 87px;
+  left: 240px;
+  transition: all 4s;
+}
+.eye6 {
+  width: 70px;
+  top: 7px;
+  left: 60px;
+  transition: all 8s;
+}
+.eye7 {
+  width: 90px;
+  top: 147px;
+  left: 20px;
+  transition: all 15s;
+}
+
+.eye8 {
+  width: 90px;
+  top: 187px;
+  left: 200px;
+  transition: all 2s;
+}
+
+.eye9 {
+  width: 50px;
+  top: 287px;
+  left: 230px;
+  transition: all 5s;
+}
